@@ -1,0 +1,24 @@
+<HMTL>
+<HEAD>
+<script type="text/javascript" src="js/shortcut.js"></script>
+</HEAD>
+<BODY>
+<script>
+shortcut.add("Shift+A",function() {
+c=document.getElementById("facturado");
+c.value="si es facturado";
+});
+
+shortcut.add("Shift+B",function() {
+c=document.getElementById("facturado");
+c.value="No es facturado";
+});
+</script>
+<form method="POST" action="p.php">
+<input id="facturado" type="radio" name="facturado" value="si">si
+<input type="submit">
+</form>
+</BODY>
+</HMTL>
+
+
