@@ -1,0 +1,52 @@
+<?php
+require('../funciones2.php');
+conectar();
+
+$ca=mysql_query("SELECT * FROM `Categorias_menu`WHERE id_categoria=".$_POST['id']);
+$c=mysql_fetch_array($ca);
+
+echo "<form name='envia' action='acciones_menus.php' method='post'>
+		<table>
+			<caption>MODIFICAR SUB-CATEGORIA</caption>
+			<thead>
+				<tr>
+					<th colspan='2'>DATOS DE LA SUB-CATEGORIA ".$c['nombre']."</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>	<td>Nombre</td>		<td><input type='text' name='nombre' value='".$c['nombre']."'></td>	</tr>
+				<tr>	<td>Descripcion</td>		<td><input type='text' name='descripcion' value='".$c['descripcion']."'></td>	</tr>
+				<tr>	<td>Estatus</td>		<td>
+													<select name='estatus'>";
+													if($c['estatus']=="ACTIVO")
+													{
+														echo '<option value="'.$c['estatus'].'" selected>ACTIVO</option>';
+														echo '<option value="SUSPENDIDO" >SUSPENDIDO</option>';													
+
+													}
+													else
+													{
+														echo '<option value="ACTIVO">ACTIVO</option>';														
+														echo '<option value="'.$c['estatus'].'" selected>SUSPENDIDO</option>';
+													}
+													echo '																					
+													</select>
+												</td>	
+				</tr>
+			</tbody>
+		</table>
+		<input type="hidden" name="accion" value="Modifica_subcategoria">
+		<input type="hidden" name="id" value="'.$_POST['id'].'">
+		<input type="button" name="enviar" value="MODIFICAR" onclick="envia_form();">
+	</form>
+	 ';
+
+echo '
+		<script type="text/javascript">
+			function envia_form()
+			{
+				document.envia.submit();			
+			}
+		</script>
+'	 ;
+?>

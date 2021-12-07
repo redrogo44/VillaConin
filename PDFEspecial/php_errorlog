@@ -1,0 +1,7 @@
+[16-May-2014 00:43:59] PHP Fatal error:  Class 'FPDF' not found in /home/sistem68/public_html/PDFEspecial/DevX250414L.php on line 7
+[17-May-2014 17:18:47] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'funciones2.php' (include_path='.:/usr/local/php52/pear') in /home/sistem68/public_html/PDFEspecial/Abono17.php on line 4
+[17-May-2014 17:19:03] PHP Fatal error:  Class 'FPDF' not found in /home/sistem68/public_html/PDFEspecial/Abono17.php on line 7
+[17-May-2014 17:19:28] PHP Fatal error:  Class 'FPDF' not found in /home/sistem68/public_html/PDFEspecial/Abono17.php on line 6
+[17-May-2014 17:20:13] PHP Fatal error:  Class 'FPDF' not found in /home/sistem68/public_html/PDFEspecial/Abono17.php on line 6
+[17-May-2014 18:20:54] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'funciones2.php' (include_path='.:/usr/local/php52/pear') in /home/sistem68/public_html/PDFEspecial/NotaCargo85.php on line 3
+[17-May-2014 18:21:32] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../sfunciones2.php' (include_path='.:/usr/local/php52/pear') in /home/sistem68/public_html/PDFEspecial/NotaCargo85.php on line 3
