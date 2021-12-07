@@ -1,0 +1,102 @@
+             *{
+				 padding:0px;
+				 margin:0px;
+			  }
+			  
+			  #header{
+				  margin:auto;
+				  width:1000px;
+				  right:800px;
+				  height:20px;
+				  font-family:Arial, Helvetica, sans-serif;
+
+				  }
+			  ul,ol{
+				 list-style:none;}
+				 
+			 .nav li a {
+				 background-color:#000;
+				 color:#fff;
+				 text-decoration:none;
+				 padding:10px 15px;
+				 display:block;
+				 }
+			.nav li a:hover 
+			{
+			 background-color:#434343;
+		    }
+			 .nav > li{
+				 float:left;}
+			.nav li ul {
+				display:none;
+				position:absolute;
+				min-width:140px;
+				border-color:#900;
+				border-style:solid;
+				border-radius:10px;
+				}
+			.nav li:hover> ul{
+				display:block;
+				}
+				.nav li:hover> ul li{
+				display:block;
+				}
+			.nav li ul li{
+				position:relative;}
+			.nav li ul li ul{
+				right:135px;
+				top:10px;
+				animation:infinite; 
+				color:#F00;
+				border-color:#900;
+				border-style:solid;
+				border-radius:10px;
+				}	 
+				.pie {position:absolute;bottom:0;width:100%;color:white;background-color:#900;font-size:8;font-family:Arial, Helvetica, sans-serif;} 
+			#menu1 {
+	font-size: 90%;
+	list-style-image: url(imasmenu/doct.gif);
+	border: 1px solid #006699;
+	width: 200px;
+	padding-top: .5em;
+	padding-bottom: .5em;
+	list-style: inside;
+}
+html > body #menu1{
+	list-style: outside;
+}
+.cAbierta{
+	list-style-type: none;
+	list-style-image: url(imasmenu/carpabiertat.gif);
+}
+.cAbiertaSeleccionada{
+	list-style-type: none;
+	list-style-image: url(imasmenu/carpabiertasel.gif);
+}
+.cCerradaSeleccionada{
+	list-style-type: none;
+	list-style-image: url(imasmenu/carpcerradasel.gif);
+}
+.cCerrada{
+	list-style-type: none;
+	list-style-image: url(imasmenu/carpcerradat.gif);
+}
+.menuDoc{
+	list-style-type: none;
+	list-style-image: url(imasmenu/doct.gif);
+}
+.tagApartado, a.tagApartado{
+	cursor: pointer;
+	font-weight: bold;
+	text-decoration: none;
+}
+.documentoActual{
+	list-style-image: url(imasmenu/docsel.gif);
+}
+
+#menu1 a {
+	color: #006699;
+}
+.documentoActual a{
+	color:#993300;
+}

@@ -1,0 +1,125 @@
+table.table1
+{
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.4em;
+    font-style: normal;
+    border-collapse:inherit;
+}
+.table1 thead th{
+    padding:15px;
+    color:#fff;
+    text-shadow:1px 1px 1px #000;
+    border:1px solid #154FFF;
+    border-bottom:3px solid #154FFF;
+    background-color:#154FFF;
+    background:-webkit-gradient(
+        linear,
+        left bottom,
+        left top,
+        color-stop(0.02, rgb(123,192,67)),
+        color-stop(0.51, rgb(139,198,66)),
+        color-stop(0.87, rgb(158,217,41))
+        );
+    background: -moz-linear-gradient(
+        center bottom,
+        rgb(123,192,67) 2%,
+        rgb(139,198,66) 51%,
+        rgb(158,217,41) 87%
+        );
+    -webkit-border-top-left-radius:5px;
+    -webkit-border-top-right-radius:5px;
+    -moz-border-radius:5px 5px 0px 0px;
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+}
+.table1 thead th:empty{
+    background:transparent;
+    border:none;
+}
+.table1 tfoot td{
+    color: #9CD009;
+    font-size:32px;
+    text-align:center;
+    padding:10px 0px;
+    text-shadow:1px 1px 1px #444;
+}
+.table1 tfoot th{
+    color:#666;
+}
+.table1 tbody td{
+    padding:0px;
+    text-align:center;
+    background-color:#FD5151;
+    border: 2px solid #E7EFE0;
+    -moz-border-radius:2px;
+    -webkit-border-radius:2px;
+    border-radius:2px;
+    color:#000;
+    text-shadow:1px 1px 1px #fff;
+}
+.table1 tbody th{
+    padding:10px;
+    text-align:center;
+    background-color:#FB0000;
+    border: 2px solid #000;
+    -moz-border-radius:2px;
+    -webkit-border-radius:2px;
+    border-radius:2px;
+    color:#000;
+    text-shadow:1px 1px 1px #fff;
+}
+.table1 tbody span.check::before{
+    content : url(../images/check0.png)
+}
+.table1  th{
+    padding:15px;
+    color:#000;
+    text-shadow:1px 1px 1px #FFF;
+    border:1px solid #154FFF;
+    border-bottom:3px solid #154FFF;
+    background-color:#154FFF;
+    background:-webkit-gradient(
+        linear,
+        left bottom,
+        left top,
+        color-stop(0.02, rgb(123,192,67)),
+        color-stop(0.51, rgb(139,198,66)),
+        color-stop(0.87, rgb(158,217,41))
+        );
+    background: -moz-linear-gradient(
+        center bottom,
+        rgb(123,192,67) 2%,
+        rgb(139,198,66) 51%,
+        rgb(158,217,41) 87%
+        );
+    -webkit-border-top-left-radius:5px;
+    -webkit-border-top-right-radius:5px;
+    -moz-border-radius:5px 5px 0px 0px;
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+}
+.SelectStyle:after {
+	width: 30px;
+	height: 30px;
+	display: block;
+	content: '';
+	position: absolute;
+	top: 0;right: 0;
+	pointer-events: none;
+	border: 1px solid #C1C1C1;
+	background:#ebebeb;
+	background-image: url('http://www.ideup.com/sites/all/themes/ideup/img/bullet--arrow--down.gif');
+	background-image: url('http://www.ideup.com/sites/all/themes/ideup/img/bullet--arrow--down.gif'), -moz-linear-gradient(top,#dfdfdf 0%,#f6f6f6 100%);
+	background-image: url('http://www.ideup.com/sites/all/themes/ideup/img/bullet--arrow--down.gif'), -webkit-gradient(linear,left top,left bottom,color-stop(0%,#dfdfdf),color-stop(100%,#f6f6f6));
+	background-image: url('http://www.ideup.com/sites/all/themes/ideup/img/bullet--arrow--down.gif'), -webkit-linear-gradient(top,#dfdfdf 0%,#f6f6f6 100%);
+	background-image: url('http://www.ideup.com/sites/all/themes/ideup/img/bullet--arrow--down.gif'), -o-linear-gradient(top,#dfdfdf 0%,#f6f6f6 100%);
+	background-image: url('http://www.ideup.com/sites/all/themes/ideup/img/bullet--arrow--down.gif'), -ms-linear-gradient(top,#dfdfdf 0%,#f6f6f6 100%);
+	background-image: url('http://www.ideup.com/sites/all/themes/ideup/img/bullet--arrow--down.gif'), linear-gradient(top,#dfdfdf 0%,#f6f6f6 100%);
+	background-repeat: no-repeat;
+	background-position: center center;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+}

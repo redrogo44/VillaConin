@@ -1,0 +1,84 @@
+[01-Dec-2020 21:05:18 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[01-Dec-2020 21:05:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[01-Dec-2020 21:05:18 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/index.php on line 5
+[01-Dec-2020 21:05:18 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/index.php on line 7
+[01-Dec-2020 15:05:18 America/Mexico_City] PHP Notice:  Undefined index: fecha1 in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/index.php on line 116
+[01-Dec-2020 15:05:18 America/Mexico_City] PHP Notice:  Undefined index: fecha2 in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/index.php on line 117
+[01-Dec-2020 15:05:18 America/Mexico_City] PHP Notice:  Undefined index: fecha1 in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/index.php on line 378
+[01-Dec-2020 15:05:18 America/Mexico_City] PHP Notice:  Undefined index: fecha2 in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/index.php on line 379
+[01-Dec-2020 15:05:18 America/Mexico_City] PHP Notice:  Undefined index: fecha1 in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/index.php on line 432
+[01-Dec-2020 15:05:18 America/Mexico_City] PHP Notice:  Undefined index: fecha2 in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/index.php on line 432
+[01-Dec-2020 15:05:18 America/Mexico_City] PHP Notice:  Undefined index: submit in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/index.php on line 438
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 2
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[01-Dec-2020 21:05:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[01-Dec-2020 15:05:19 America/Mexico_City] PHP Notice:  Undefined variable: cantidades in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/tree.php on line 144
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 2
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[01-Dec-2020 21:05:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 2
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[01-Dec-2020 21:05:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 2
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[01-Dec-2020 21:05:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 2
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[01-Dec-2020 21:05:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 2
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[01-Dec-2020 21:05:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 2
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[01-Dec-2020 21:05:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[01-Dec-2020 15:05:19 America/Mexico_City] PHP Notice:  Undefined index: fecha3 in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/tree.php on line 798
+[01-Dec-2020 15:05:19 America/Mexico_City] PHP Notice:  Undefined index: fecha3 in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/tree.php on line 798
+[01-Dec-2020 15:05:19 America/Mexico_City] PHP Notice:  Undefined index: fecha3 in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/tree.php on line 798
+[01-Dec-2020 15:05:19 America/Mexico_City] PHP Notice:  Undefined index: fecha3 in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/tree.php on line 798
+[01-Dec-2020 15:05:19 America/Mexico_City] PHP Notice:  Undefined index: fecha3 in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/tree.php on line 798
+[01-Dec-2020 15:05:19 America/Mexico_City] PHP Notice:  Undefined index: fecha3 in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/tree.php on line 798
+[01-Dec-2020 15:05:19 America/Mexico_City] PHP Notice:  Undefined index: fecha3 in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/tree.php on line 798
+[01-Dec-2020 15:05:19 America/Mexico_City] PHP Notice:  Undefined index: fecha3 in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/tree.php on line 798
+[01-Dec-2020 15:05:19 America/Mexico_City] PHP Notice:  Undefined index: fecha3 in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/tree.php on line 798
+[01-Dec-2020 15:05:19 America/Mexico_City] PHP Notice:  Undefined index: fecha3 in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/tree.php on line 798
+[01-Dec-2020 15:05:19 America/Mexico_City] PHP Notice:  Undefined index: fecha3 in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/tree.php on line 798
+[01-Dec-2020 15:05:19 America/Mexico_City] PHP Notice:  Undefined index: fecha3 in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/tree.php on line 798
+[01-Dec-2020 15:05:19 America/Mexico_City] PHP Notice:  Undefined variable: tEm in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/tree.php on line 826
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 2
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[01-Dec-2020 21:05:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 2
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[01-Dec-2020 21:05:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 2
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[01-Dec-2020 21:05:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 2
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[01-Dec-2020 21:05:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 2
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[01-Dec-2020 21:05:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[01-Dec-2020 15:05:19 America/Mexico_City] PHP Notice:  Undefined variable: tEm in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/tree.php on line 729
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 2
+[01-Dec-2020 21:05:19 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[01-Dec-2020 21:05:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[01-Dec-2020 21:05:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 2
+[01-Dec-2020 21:05:20 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[01-Dec-2020 21:05:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[01-Dec-2020 21:05:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 2
+[01-Dec-2020 21:05:31 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[01-Dec-2020 21:05:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[01-Dec-2020 15:05:33 America/Mexico_City] PHP Notice:  Undefined variable: tEmp in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/tree.php on line 1105
+[01-Dec-2020 21:05:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 2
+[01-Dec-2020 21:05:33 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[01-Dec-2020 21:05:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[01-Dec-2020 21:05:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 2
+[01-Dec-2020 21:05:34 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[01-Dec-2020 21:05:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[01-Dec-2020 21:05:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 2
+[01-Dec-2020 21:05:34 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[01-Dec-2020 21:05:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[01-Dec-2020 15:05:34 America/Mexico_City] PHP Notice:  Undefined variable: tcc in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/tree.php on line 1193
+[01-Dec-2020 15:05:34 America/Mexico_City] PHP Notice:  Undefined variable: tcc in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/tree.php on line 1193
+[01-Dec-2020 15:05:34 America/Mexico_City] PHP Notice:  Undefined variable: tcc in /home/qroodigo/public_html/villaconin.mx/Config/Arbol/CostoPromedio/tree.php on line 1193
