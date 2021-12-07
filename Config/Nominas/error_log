@@ -1,0 +1,70 @@
+[18-Mar-2021 16:19:37 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[18-Mar-2021 16:26:54 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[18-Mar-2021 16:26:59 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[18-Mar-2021 16:27:07 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[18-Mar-2021 16:40:02 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[18-Mar-2021 17:07:42 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[18-Mar-2021 17:07:42 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 6
+[18-Mar-2021 17:07:42 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[30-Apr-2021 18:44:59 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[30-Apr-2021 18:44:59 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 6
+[30-Apr-2021 18:44:59 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[30-Apr-2021 18:45:16 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[30-Apr-2021 18:45:16 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 6
+[30-Apr-2021 18:45:16 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[18-May-2021 17:51:16 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[17-Jun-2021 19:34:11 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[17-Jun-2021 19:34:32 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[17-Jun-2021 19:36:02 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[17-Jun-2021 19:36:05 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[02-Aug-2021 18:00:21 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[02-Aug-2021 18:00:27 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[02-Aug-2021 18:08:37 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[02-Aug-2021 18:11:34 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[02-Aug-2021 18:11:39 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[02-Aug-2021 18:12:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[02-Aug-2021 18:12:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Mnomina.php on line 13
+[02-Aug-2021 18:12:14 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[02-Aug-2021 18:12:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[02-Aug-2021 18:12:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Mnomina.php on line 13
+[02-Aug-2021 18:12:57 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[02-Aug-2021 18:13:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[02-Aug-2021 18:13:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Mnomina.php on line 13
+[02-Aug-2021 18:13:08 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[02-Aug-2021 18:13:14 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[02-Aug-2021 18:13:17 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[02-Aug-2021 18:13:18 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[02-Aug-2021 18:13:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[02-Aug-2021 18:14:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[02-Aug-2021 18:15:26 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[09-Nov-2021 22:27:11 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[09-Nov-2021 22:28:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[09-Nov-2021 22:28:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Mnomina.php on line 13
+[09-Nov-2021 22:28:40 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[09-Nov-2021 22:28:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[09-Nov-2021 22:28:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Mnomina.php on line 13
+[09-Nov-2021 22:29:00 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[09-Nov-2021 22:30:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[09-Nov-2021 22:31:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[09-Nov-2021 22:31:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Mnomina.php on line 13
+[09-Nov-2021 22:31:08 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[09-Nov-2021 22:31:42 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[09-Nov-2021 22:47:39 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[09-Nov-2021 22:47:41 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[10-Nov-2021 18:07:42 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[10-Nov-2021 18:08:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[10-Nov-2021 18:08:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Mnomina.php on line 13
+[10-Nov-2021 18:08:43 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[10-Nov-2021 18:09:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[10-Nov-2021 18:09:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Mnomina.php on line 13
+[10-Nov-2021 18:09:36 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[10-Nov-2021 18:09:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[10-Nov-2021 18:09:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Mnomina.php on line 13
+[10-Nov-2021 18:09:48 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[24-Nov-2021 18:29:43 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 5
+[24-Nov-2021 18:29:43 UTC] PHP Notice:  Undefined index: niv in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 6
+[24-Nov-2021 18:29:43 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[01-Dec-2021 17:30:44 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9
+[01-Dec-2021 17:32:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/qroodigo/public_html/villaconin.mx/Config/configuraciones.php on line 22
+[01-Dec-2021 17:32:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Mnomina.php on line 13
+[01-Dec-2021 17:32:08 UTC] PHP Notice:  Undefined index: usuario in /home/qroodigo/public_html/villaconin.mx/Config/Nominas/Nominas.php on line 9

@@ -1,0 +1,6 @@
+[05-Jun-2014 02:43:31] PHP Fatal error:  Call to undefined function  menunomina() in /home/sistem68/public_html/testearsistema/Config/Nominas/Nominas.php on line 7
+[05-Jun-2014 02:45:16] PHP Fatal error:  Call to undefined function  menunomina() in /home/sistem68/public_html/testearsistema/Config/Nominas/Nominas.php on line 7
+[05-Jun-2014 02:45:18] PHP Fatal error:  Call to undefined function  menunomina() in /home/sistem68/public_html/testearsistema/Config/Nominas/Nominas.php on line 7
+[13-Oct-2014 16:33:11 CST6CDT] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php54/lib/php/extensions/sqlite.so' - /usr/local/php54/lib/php/extensions/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Oct-2014 16:33:14 CST6CDT] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php54/lib/php/extensions/sqlite.so' - /usr/local/php54/lib/php/extensions/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Oct-2014 16:33:18 CST6CDT] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php54/lib/php/extensions/sqlite.so' - /usr/local/php54/lib/php/extensions/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0

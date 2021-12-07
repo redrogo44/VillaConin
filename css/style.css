@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+.div
+{
+	margin: 0 auto;
+	display: inline-block; 
+	vertical-align:top;
+	*/background:#F00;*/
+}
+#logo
+{
+	max-width: 50%;
+	min-width: 50px;
+	max-height: 200px;
+	min-height: 50px;
+	display:inline-block;
+	vertical-align:top;
+	position: absolute;
+	/*background:#000;*/
+}
+#contenido
+{
+	/*margin: 0 auto;*/
+	padding: 1em 3em;
+ 	margin: 1em 25%;
+	max-width: 900px;
+	min-width: 100px;
+	display: inline-block; 
+	vertical-align:top;
+	position: absolute;
+/*	background:#0FF;*/
+}
+#productos_cargados
+{
+	background:#5EFF00;
+	padding: 1em;
+	margin: 14em 20px 30px;
+  	width: 300px;
+}
+#codigos
+{
+	width: 150px;
+	height: 50px;
+}
